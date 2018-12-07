@@ -5,7 +5,7 @@ _The purpose of this repository is to help you practice using_ `HTML` _elements 
 ## Before you begin
 Observe the files in this repo:  
 
-* `index.html` is where you will be doing thier coding.
+* `index.html` is where you will be doing my coding.
 * `index.txt` is the raw code you will be copying/pasting into `index.html`.
   * NOTE: embedding `code` inside HTML is tricky. It often requires using 
   * `&lt;` instead of `<` and 
